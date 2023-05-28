@@ -1,9 +1,7 @@
-# Git-freshers
-Repository for Git Exercise
+# CSOC Week 0
+Repository for Git Exercise where you have to add your github profile link and link to your portfolio website.
 
-Try to get your pull request merged :man_technologist:
-
-And then you can see your card here - [Git-freshers](https://git-freshers.netlify.app/)
+And then you can see your card here - [Git-freshers](https://cops-csoc23.netlify.app/)
 
 ## Steps to Contribute
 
@@ -18,3 +16,4 @@ And then you can see your card here - [Git-freshers](https://git-freshers.netlif
 ## Editing guidelines
 
 -   Copy the template of the sample card (part of code in separate block) at the end of existing cards and fill in the required details.
+-   Add you portfolio site link and github profile link.
