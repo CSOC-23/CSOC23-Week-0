@@ -1,7 +1,7 @@
 # CSOC Week 0
 Repository for Git Exercise where you have to add your github profile link and link to your portfolio website.
 
-And then you can see your card here - [Git-freshers](https://cops-csoc23.netlify.app/)
+And then you can see your card here - [Git-freshers](https://csoc23-week0.netlify.app/)
 
 ## Steps to Contribute
 
